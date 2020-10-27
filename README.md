@@ -20,10 +20,9 @@ tar -czvf fonts.tar.gz ./fonts/
 
 | Fonts   |
 | ------- |
-| ✓ Droid Serif |
-| ✓ Georgia |
-| ✓ SegoeUI |
-| ✓ Malgun Gothic |
-| ✓ Microsoft JhengHei |
-| ✓ Microsoft YaHei |
-| ✓ Yu Gothic |
+| ✓ Drois |
+| ✓ georgia |
+| ✓ shsKR |
+| ✓ shsJP |
+| ✓ shsCN |
+| ✓ shsTW |
