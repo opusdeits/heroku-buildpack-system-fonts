@@ -21,8 +21,8 @@ tar -czvf fonts.tar.gz ./fonts/
 | Fonts   |
 | ------- |
 | ✓ Drois |
-| ✓ georgia |
+| ✓ Cairo |
 | ✓ shsKR |
-| ✓ shsJP |
-| ✓ shsCN |
-| ✓ shsTW |
+| ✓ ntsJP |
+| ✓ shsSC |
+| ✓ shsTC |
