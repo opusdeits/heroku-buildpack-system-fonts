@@ -24,5 +24,5 @@ tar -czvf fonts.tar.gz ./fonts/
 | ✓ Cairo |
 | ✓ shsKR |
 | ✓ ntsJP |
-| ✓ shsSC |
-| ✓ shsTC |
+| ✓ mSC |
+| ✓ mTC |
