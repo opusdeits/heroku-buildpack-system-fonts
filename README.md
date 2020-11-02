@@ -21,7 +21,7 @@ tar -czvf fonts.tar.gz ./fonts/
 | Fonts   |
 | ------- |
 | ✓ Drois |
-| ✓ sg  |
+| ✓ Cairo |
 | ✓ mKR |
 | ✓ mJP |
 | ✓ mSC |
