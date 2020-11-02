@@ -6,7 +6,7 @@ This buildpack makes it easy to install system fonts on Heroku [stacks](https://
 
 ```bash
 # Add the buildpack
-heroku buildpacks:add --index 2 https://github.com/opusdeits/heroku-buildpack-system-fonts.git
+heroku buildpacks:add --index 2 https://github.com/hopkinschris/heroku-buildpack-system-fonts.git
 
 #Deploy
 git push heroku master
@@ -20,9 +20,4 @@ tar -czvf fonts.tar.gz ./fonts/
 
 | Fonts   |
 | ------- |
-| ✓ Drois |
-| ✓ sg  |
-| ✓ mKR |
-| ✓ mJP |
-| ✓ mSC |
-| ✓ mTC |
+| ✓ Arial |
