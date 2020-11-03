@@ -24,6 +24,6 @@ tar -czvf fonts.tar.gz ./fonts/
 | ✓ sg  |
 | ✓ mKR |
 | ✓ mJP |
-| ✓ msc |
+| ✓ mSC |
 | ✓ mTC |
-| ✓ RobotoCondensedBold |
+| ✓ RobotoCondensed-Bold |
