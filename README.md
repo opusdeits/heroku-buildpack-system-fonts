@@ -20,4 +20,9 @@ tar -czvf fonts.tar.gz ./fonts/
 
 | Fonts   |
 | ------- |
-| ✓ Arial |
+| ✓ Drois |
+| ✓ sg  |
+| ✓ mKR |
+| ✓ mJP |
+| ✓ mSC |
+| ✓ mTC |
